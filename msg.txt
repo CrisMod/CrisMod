@@ -1,0 +1,1 @@
+{'num':'1', 'msgs':'\n ¡Esta aplicación es GRATIS y NO cuesta dinero!\n Si pagó por él, ¡ha sido estafado!\n\n NO lo vuelva a comprar, cuando haya una ACTUALIZACIÓN disponible, recibirá un mensaje automáticamente.\n No es necesario comprarlo\n\nAtte: CrisMod'}

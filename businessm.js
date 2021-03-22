@@ -1,5 +1,5 @@
 {
-	"version": "2.21.3.13 v8.3",
+	"version": "2.21.3.20",
 	"download": "http://anthargo.com/6typ",
 	"update": [
 		{
